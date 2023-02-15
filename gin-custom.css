@@ -1,5 +1,5 @@
 .toolbar-icon-varbase-dashboards-dashboard::before {
-  -webkit-mask-image:  url(/sites/default/files/icons8-dashboard-64.png)  !important ;
+  -webkit-mask-image:  url(/sites/default/files/dashboard_icon2.png)  !important ;
   mask-image: url(/sites/default/files/icons8-dashboard-64.png)  !important ;
 }
 
