@@ -1,3 +1,9 @@
-/*
-<a href="/user/register" class="register-button button button--secondary" data-drupal-selector="edit-register-button" id="edit-register-button">Create new account</a>
-*/
+.toolbar-icon-varbase-dashboards-dashboard::before {
+  -webkit-mask-image:  url(/sites/default/files/icons8-dashboard-64.png)  !important ;
+  mask-image: url(/sites/default/files/icons8-dashboard-64.png)  !important ;
+}
+
+.toolbar-icon-civicrm::before {
+  -webkit-mask-image:  url(/sites/default/files/CiviCRM-icon-2019-gray-small.png)  !important ;
+  mask-image: url(/sites/default/files/CiviCRM-icon-2019-gray-small.png)  !important ;
+}
