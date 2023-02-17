@@ -1,6 +1,11 @@
 .toolbar-icon-varbase-dashboards-dashboard::before {
   -webkit-mask-image:  url(/sites/default/files/dashboard_icon2.png)  !important ;
-  mask-image: url(/sites/default/files/icons8-dashboard-64.png)  !important ;
+  mask-image: url(/sites/default/files/dashboard_icon2.png)  !important ;
+}
+
+.toolbar-icon-menu-link-contentae919a87-e777-4aee-ae72-0bdd30190f79::before {
+  -webkit-mask-image:  url(/sites/default/files/CiviCRM-icon-2019-gray-small.png)  !important ;
+  mask-image: url(/sites/default/files/CiviCRM-icon-2019-gray-small.png)  !important ;
 }
 
 .toolbar-icon-civicrm::before {
